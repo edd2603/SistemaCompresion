@@ -9,17 +9,30 @@ El código implementa un sistema de compresión utilizando el algoritmo de Huffm
 8.	La función decodificar_texto(texto_codificado, codigos) decodifica el texto codificado utilizando los códigos Huffman. Itera sobre los bits del texto codificado, construye el código actual hasta que coincide con un código Huffman y agrega el carácter correspondiente al texto decodificado.
 9.	Las funciones guardar_archivo(nombre_archivo, contenido) y mostrar_resultado(tasa_compresion) son funciones auxiliares para guardar el contenido en un archivo y mostrar el resultado en la terminal, respectivamente.
 10.	El código principal ejecuta el sistema de compresión en varios pasos:
+
 •	Lee el archivo de texto de entrada.
+
 •	Calcula las frecuencias de los caracteres en el texto.
+
 •	Construye el árbol de Huffman utilizando las frecuencias.
+
 •	Genera los códigos Huffman para cada carácter.
+
 •	Codifica el texto original utilizando los códigos Huffman.
+
 •	Calcula la tasa de compresión.
+
 •	Decodifica el texto codificado utilizando los códigos Huffman.
+
 •	Guarda el contenido codificado en un archivo.
+
 •	Muestra el resultado de la compresión.
+
 •	Guarda el contenido decodificado en otro archivo.
+
 •	Muestra el contenido del archivo codificado en la terminal.
+
 •	Muestra el contenido del archivo decodificado en la terminal.
+
 En resumen, este código implementa el algoritmo de compresión de Huffman para codificar y decodificar archivos de texto, y muestra información sobre la tasa de compresión lograda.
 
