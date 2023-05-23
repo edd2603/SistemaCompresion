@@ -23,9 +23,9 @@ Instalación
 
 Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
-* Clonar el repositorio, descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
+*Descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
 
-* Al descargar el tag desde GitHub, abrir el codigo en un bloc de notas y ejecutarlo en el Colab
+* Al descargar el tag desde GitHub, descomprimir la carpeta y abrir el archivo sistema de compresion con bloc de notas
 
 * Asegurarse de ejecutar el proyecto en un nuevo cuaderno de Google Colab.
 
@@ -34,7 +34,7 @@ Instalar las dependencias necesarias ejecutando el siguiente comando:
 -----------------------------
 pip install bitarray
 -----------------------------
-
+* Copiar el codigo del proyecto en el Colab
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Uso
 
