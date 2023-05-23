@@ -23,7 +23,7 @@ Instalación
 
 Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
-* Clonar el repositorio o descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags.
+* Clonar el repositorio, descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
 
 * Al descargar el tag desde GitHub, abrir el codigo en un bloc de notas y ejecutarlo en el Colab
 
