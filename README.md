@@ -23,7 +23,7 @@ Instalación
 
 Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
-*Descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
+* Descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
 
 * Al descargar el tag desde GitHub, descomprimir la carpeta y abrir el archivo EurekaCompress.ipynb con bloc de notas
 
