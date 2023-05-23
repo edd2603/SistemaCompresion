@@ -25,7 +25,7 @@ Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
 * Descargar los archivos del proyecto desde GitHub por medio del TAG https://github.com/edd2603/SistemaCompresion/tags, o visualizar desde el mismo repositorio
 
-* Al descargar el tag desde GitHub, descomprimir la carpeta y abrir el archivo EurekaCompress.ipynb con bloc de notas
+* Al descargar el tag desde GitHub, descomprimir la carpeta y abrir el archivo EurekaCompress.ipynb con visual studio code
 
 * Asegurarse de ejecutar el proyecto en un nuevo cuaderno de Google Colab.
 
@@ -33,7 +33,7 @@ Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
 pip install bitarray
 
-* Copiar el codigo del archivo EurekaCompress.ipynb en el Colab
+* Copiar el codigo del archivo EurekaCompress.ipynb que anteriormente se abrio en visual studio code y lo pega en el Google Colab
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Uso
 
