@@ -29,11 +29,10 @@ Para utilizar este proyecto, se deben seguir los siguientes pasos:
 
 * Asegurarse de ejecutar el proyecto en un nuevo cuaderno de Google Colab.
 
-Instalar las dependencias necesarias ejecutando el siguiente comando:
+Instalar las dependencias necesarias ejecutando el siguiente comando en una linea de codigo del cuaderno de Colab:
 
------------------------------
 pip install bitarray
------------------------------
+
 * Copiar el codigo del archivo EurekaCompress.ipynb en el Colab
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Uso
